@@ -1,5 +1,5 @@
 _repo: Les-amours-du-chevalier-de-Faublas-tome-45_62120
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Avril, Paul
@@ -13,6 +13,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/%C3%89douard-Henri_Avril
     - https://fr.wikipedia.org/wiki/Paul_Avril
+covers:
+- cover_type: archival
+  image_path: 62120-h/images/cover.jpg
 creator:
   author:
     agent_name: Louvet de Couvray, Jean-Baptiste
@@ -29,6 +32,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Jean-Baptiste_Louvet_de_Couvray
     - https://en.wikipedia.org/wiki/Jean-Baptiste_Louvet_de_Couvrai
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62120#Les-amours-du-chevalier-de-Faublas-tome-45
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Séduction et libertinage
