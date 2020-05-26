@@ -1,0 +1,48 @@
+_repo: Les-amours-du-chevalier-de-Faublas-tome-45_62120
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Avril, Paul
+    aliases:
+    - Avril, Edouard-Henri
+    - Avril, Édouard-Henri
+    birthdate: 1849
+    deathdate: 1928
+    gutenberg_agent_id: '24941'
+    url: http://www.gutenberg.org/2009/agents/24941
+    wikipedia:
+    - https://en.wikipedia.org/wiki/%C3%89douard-Henri_Avril
+    - https://fr.wikipedia.org/wiki/Paul_Avril
+creator:
+  author:
+    agent_name: Louvet de Couvray, Jean-Baptiste
+    aliases:
+    - Loiret, Jean-Baptiste Louvet de
+    - Couvrai, Jean Baptiste Louvet de
+    - Couvray, Jean-Baptiste Louvet de
+    - Louvet, Jean-Baptiste
+    birthdate: 1760
+    deathdate: 1797
+    gutenberg_agent_id: '51677'
+    url: http://www.gutenberg.org/2009/agents/51677
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Jean-Baptiste_Louvet_de_Couvray
+    - https://en.wikipedia.org/wiki/Jean-Baptiste_Louvet_de_Couvrai
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Séduction et libertinage
+gutenberg_issued: '2020-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62120'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Erotic stories, French'
+- !lcc 'PQ'
+- GITenberg
+title: Les amours du chevalier de Faublas, tome 4/5
+url: http://www.gutenberg.org/ebooks/62120
